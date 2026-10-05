@@ -1,2 +1,2 @@
-# machine-learning-zoomcamp-homework1
+# machine-learning-zoomcamp-homework
 Hello
